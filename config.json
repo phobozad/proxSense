@@ -1,0 +1,16 @@
+{
+	"serialPort": "COM10",
+	"buadRate": 57600,
+	"serialTimeout": 30,
+	"panelBgColor": "black",
+	"mapImage": "storemap.jpg",
+	"serialDataLength": 4,
+	"serialLineLength": 8,
+	"triggerDistance": 120,
+	"triggerHoldTime": 0,
+	"displayFullScreen": true,
+	"displayWidth": 0,
+	"displayHeight": 0,
+	"displayPosX": 0,
+	"displayPosY": 0
+}
